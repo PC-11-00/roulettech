@@ -1,0 +1,7 @@
+# .gitignore
+blog-site/node_modules/
+blog_backend/blog/__pycache__
+blog_backend/blog/migrations/__pycache__
+blog_backend/blog_backend/__pycache__
+blog_backend/db.sqlite3
+myenv
